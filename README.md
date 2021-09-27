@@ -1,7 +1,7 @@
 # PlatON
 
-![twitter](./twitter.jpg)
+![twitter](./twitter.png)
 
-![telegram2](./telegram2.jpg)
+![telegram2](./telegram2.png)
 
-![telegram3](./telegram3.jpg)
+![telegram3](./telegram3.png)
